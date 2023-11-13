@@ -1,2 +1,2 @@
-# una-lista-10-csharp-202302
+# lista-10-csharp-sqlite
 Soluções dos Algoritmos da lista de atividades X
